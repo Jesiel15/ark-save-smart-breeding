@@ -1,6 +1,6 @@
 @echo off
 
-rem 1- Substitua pelo caminho do seu repositório
+rem 1- Substitua pelo caminho do seu repositório/projeto
 cd /d "D:\Arquivos de Programas\Projetos\ark-save-smart-breeding" 
 
 rem 2 - Empurra para a branch o tudo que tiver alterado
