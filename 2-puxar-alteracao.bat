@@ -1,7 +1,7 @@
 @echo off
 
 rem 1- Substitua pelo caminho do seu repositório/projeto
-cd /d "D:\Arquivos de Programas\Projetos\ark-save-smart-breeding" 
+cd /d "C:\workspace\Ark Smart Breeding\ark-save-smart-breeding" 
 
 rem 2- Puxa todas as alterações
 git pull
