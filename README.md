@@ -1,22 +1,20 @@
 ## Instruções
 
-Committar tudo que foi modificado, mantendo tambem os arquivos de Backup!
-
 * Obs: SmartBreeding quando salva, ele criar um arquivo de BACKUP, deve ser commitado também.
 
 ## Passo a passo
 
-1. Git clone no projeto ww...
-2. Instale o Smart Breeding
-3. Abre o arquivo de extensão ``saveArk.asb`` no Smart Breeding
-4. Salve para o Smart Breeding sempre abrir com os mesmo arquivo
+1. Abra um terminal na pasta onde o repositório irá ficar
 
-## Comando para atualizar para todos
+2. De um `git clone` no terminal e execute o seguinte comando: `git clone https://github.com/Jesiel15/ark-save-smart-breeding.git`
 
-``git add .``
-``git Status``
-``git commit -m 'descrição do commit com a data no formato 29-08-2023'``
+3. Baixe o smart breeding:
+https://github.com/cadon/ARKStatsExtractor/releases/tag/v0.55.0
 
+* `Link direto .ZIP:` https://github.com/cadon/ARKStatsExtractor/releases/download/v0.55.0/ARK.Smart.Breeding_0.55.0.0.zip
+* `Link direto .EXE:` https://github.com/cadon/ARKStatsExtractor/releases/download/v0.55.0/setup-ArkSmartBreeding-0.55.0.0.exe
+## Quando quiser salvar no repositório ou puxar alterações:
 
-Incluir a foto aqui 
-Lembrar de trocar o nome do arquivo
+3. Para `SUBIR` uma alteração `1-git-clone.bat`
+
+4. Para `PUXAR` uma alteração `1-git-clone.bat`
