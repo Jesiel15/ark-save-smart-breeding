@@ -1,7 +1,7 @@
 ## Instruções
 
 * Obs: SmartBreeding quando salva, ele criar um arquivo de BACKUP, deve ser commitado também.
-* Obs: Sempre execute os arquivos `1-subir-alteracao` e `2-puxar-alteracao` como ADMINISTRADO
+* Obs: Sempre execute os arquivos `1-subir-alteracao.bat` e `2-puxar-alteracao.bat` como ADMINISTRADO
 ## Passo a passo
 
 1. Abra um terminal na pasta onde o repositório irá ficar
@@ -20,8 +20,13 @@ https://github.com/cadon/ARKStatsExtractor/releases/tag/v0.55.0
 
 6. Salve para toda vez que abrir o Smart Breeding ficar salvo o local dos saves
 
-## Quando quiser salvar no repositório ou puxar alterações:
+7. Edite o aquivo `1-subir-alteracao.bat` e substitua o caminho pelo caminho do seu projeto:
+* Exemplo: `cd /d "D:\Arquivos de Programas\Projetos\ark-save-smart-breeding"`
 
-3. Para `SUBIR` uma alteração `1-subir-alteracao`
+8. Edite o aquivo `2-puxar-alteracao.bat` e substitua o caminho pelo caminho do seu projeto:
+* Exemplo: `cd /d "D:\Arquivos de Programas\Projetos\ark-save-smart-breeding"`
+## Quando quiser SALVAR no repositório ou PUXAR alterações:
 
-4. Para `PUXAR` uma alteração `2-puxar-alteracao`
+7. Para `SUBIR` uma alteração `Subir Alteracao.bat - Atalho`
+
+8. Para `PUXAR` uma alteração `Puxar Alteracao.bat - Atalho`
